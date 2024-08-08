@@ -1,10 +1,10 @@
 
-![Static Badge](https://img.shields.io/badge/licence-AFL%203.0-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/licence-MPL%202.0-blue?style=flat)
 
-# 
+# Readme generator
 
 ## Description
-
+This node application helps you to elaborate a README file for your github repos. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,17 +14,16 @@
 - [License](#license)
 
 ## Installation
-
+run npm -i to install required packages 
 
 ## Usage
-
+run node index.js to run the app, continue filling all the questions until you finish and a README file will be created on the /result folder.
 
 ## How to Contribute
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+To contribute create a branch and open a pull request commenting the changes you want to implement
 
 ## Questions
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+You can reach me for questions at email@email.com or at [gihub profile](https://github.com/marioxabel)
 
 ## License
-Distributed under the Academic Free License v3.0. [Click to see the full AFL-3.0 license](https://choosealicense.com/licenses/afl-3.0/).
----
+Distributed under the Mozilla Public License 2.0. [Click to see the full MPL-2.0 license](https://choosealicense.com/licenses/mpl-2.0/).
